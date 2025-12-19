@@ -1,4 +1,4 @@
-# 📊 Data Analysis & Visualization using Python
+# 📊 Data Analysis using Python
 
 This repository contains a collection of **Python programs for data analysis, statistical techniques and machine learning**, developed as part of academic and practical learning in **Business Analytics**.
 
